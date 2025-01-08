@@ -1,2 +1,4 @@
 # PorterProject
-checking Git 
+
+Learning Git 
+Kotlin/Ktor
